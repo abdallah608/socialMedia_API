@@ -1,6 +1,6 @@
 export const html = (token ,options)=>{
-    return  `
-    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE]><html xmlns="http://www.w3.org/1999/xhtml" class="ie"><![endif]--><!--[if !IE]><!--><html style="margin: 0;padding: 0;" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
+  return  `
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE]><html xmlns="http://www.w3.org/1999/xhtml" class="ie"><![endif]--><!--[if !IE]><!--><html style="margin: 0;padding: 0;" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
 <meta name="viewport" content="width=device-width"><style type="text/css">
@@ -563,120 +563,107 @@ body{background-color:#f5f7fa}.mso h1{}.mso h1{font-family:sans-serif !important
 <body class="full-padding" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;">
 <!--<![endif]-->
 <div class="wrapper" style="min-width: 320px;background-color: #f5f7fa;" lang="x-wrapper">
-  <div class="preheader" style="Margin: 0 auto;max-width: 560px;min-width: 280px; width: 280px;width: calc(28000% - 173040px);">
-    <div style="border-collapse: collapse;display: table;width: 100%;">
-    <!--[if (mso)|(IE)]><table align="center" class="preheader" cellpadding="0" cellspacing="0"><tr><td style="width: 280px" valign="top"><![endif]-->
-      <div class="snippet" style='display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 140px; width: 140px;width: calc(14000% - 78120px);padding: 10px 0 5px 0;color: #b9b9b9;font-family: "Open Sans",sans-serif;'>
-        
-      </div>
-    <!--[if (mso)|(IE)]></td><td style="width: 280px" valign="top"><![endif]-->
-      <div class="webversion" style='display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-align: right;color: #b9b9b9;font-family: "Open Sans",sans-serif;'>
-        
-      </div>
-    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+<div class="preheader" style="Margin: 0 auto;max-width: 560px;min-width: 280px; width: 280px;width: calc(28000% - 173040px);">
+  <div style="border-collapse: collapse;display: table;width: 100%;">
+  <!--[if (mso)|(IE)]><table align="center" class="preheader" cellpadding="0" cellspacing="0"><tr><td style="width: 280px" valign="top"><![endif]-->
+    <div class="snippet" style='display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 140px; width: 140px;width: calc(14000% - 78120px);padding: 10px 0 5px 0;color: #b9b9b9;font-family: "Open Sans",sans-serif;'>
+      
     </div>
+  <!--[if (mso)|(IE)]></td><td style="width: 280px" valign="top"><![endif]-->
+    <div class="webversion" style='display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-align: right;color: #b9b9b9;font-family: "Open Sans",sans-serif;'>
+      
+    </div>
+  <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
   </div>
-  
-  <div class="layout one-col fixed-width" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
-    <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;background-color: #307fb0;" lang="x-layout__inner">
-    <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-fixed-width" style="background-color: #307fb0;"><td style="width: 600px" class="w560"><![endif]-->
-      <div class="column" style='text-align: left;color: #60666d;font-size: 14px;line-height: 21px;font-family: "Open Sans",sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
-    
-        <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
-  <h1 class="size-48" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #44a8c7;font-size: 36px;line-height: 43px;font-family: bitter,georgia,serif;text-align: center;" lang="x-size-48"><span class="font-bitter"><font color="#ffffff"><strong>LinkedIN</strong></font></span></h1>
 </div>
-    
-      </div>
-    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+
+<div class="layout one-col fixed-width" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+  <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;background-color: #307fb0;" lang="x-layout__inner">
+  <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-fixed-width" style="background-color: #307fb0;"><td style="width: 600px" class="w560"><![endif]-->
+    <div class="column" style='text-align: left;color: #60666d;font-size: 14px;line-height: 21px;font-family: "Open Sans",sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
+  
+      <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
+<h1 class="size-48" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #44a8c7;font-size: 36px;line-height: 43px;font-family: bitter,georgia,serif;text-align: center;" lang="x-size-48"><span class="font-bitter"><font color="#ffffff"><strong>SocialMedia</strong></font></span></h1>
+</div>
+  
     </div>
+  <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+  </div>
+</div>
+
+<div class="layout one-col fixed-width" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+  <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;background-color: #ffffff;" lang="x-layout__inner" emb-background-style>
+  <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-fixed-width" emb-background-style><td style="width: 600px" class="w560"><![endif]-->
+    <div class="column" style='text-align: left;color: #60666d;font-size: 14px;line-height: 21px;font-family: "Open Sans",sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
+  
+      <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;">
+<div style="line-height:10px;font-size:1px">&nbsp;</div>
+</div>
+  
+      <div style="Margin-left: 20px;Margin-right: 20px;">
+<h2 class="size-24" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #44a8c7;font-size: 20px;line-height: 28px;text-align: center;" lang="x-size-24"><strong>Verify Your Email</strong></h2><p style="Margin-top: 16px;Margin-bottom: 0;"><strong>Hello ${options.name},</strong></p><p style="Margin-top: 20px;Margin-bottom: 20px;"><strong>Thank you for signing up to SocialMedia App.</strong></p><p style="Margin-top: 20px;Margin-bottom: 20px;"><strong>Please click on the following button to activate your token.</strong></p><p style="Margin-top: 20px;Margin-bottom: 20px;"><strong>Sincerely,<br>Team SocialMedia</strong></p>
+</div>
+  
+      <div style="Margin-left: 20px;Margin-right: 20px;">
+<div class="btn btn--flat btn--large" style="Margin-bottom: 20px;text-align: center;">
+  <![if !mso]><a style="border-radius: 4px;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #fff;background-color: #5c91ad;font-family: 'Open Sans', sans-serif;" href="https://socialmediaapi-oj5g.onrender.com/user/verify/${token}">Click here</a><![endif]>
+<!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.createsend1.com/t/d-l-dlldol-l-r/" style="width:118px" arcsize="9%" fillcolor="#5C91AD" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,11px,0px,11px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Click here</center></v:textbox></v:roundrect><![endif]--></div>
+</div>
+  
+  <div style="font-size: 12px;font-style: normal;font-weight: normal;" align="center">
+    <img class="gnd-corner-image gnd-corner-image-center gnd-corner-image-bottom" style="border: 0;display: block;height: auto;width: 90%;max-width: 720px;" alt="" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvxamh1mKeImka_TMG43UNjloBaoIw1wILA&usqp=CAU">
   </div>
 
-  <div class="layout one-col fixed-width" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
-    <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;background-color: #ffffff;" lang="x-layout__inner" emb-background-style>
-    <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-fixed-width" emb-background-style><td style="width: 600px" class="w560"><![endif]-->
-      <div class="column" style='text-align: left;color: #60666d;font-size: 14px;line-height: 21px;font-family: "Open Sans",sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
-    
-        <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;">
-  <div style="line-height:10px;font-size:1px">&nbsp;</div>
-</div>
-    
-        <div style="Margin-left: 20px;Margin-right: 20px;">
-  <h2 class="size-24" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #44a8c7;font-size: 20px;line-height: 28px;text-align: center;" lang="x-size-24"><strong>Verify Your Email</strong></h2><p style="Margin-top: 16px;Margin-bottom: 0;"><strong>Hello ${options.name},</strong></p><p style="Margin-top: 20px;Margin-bottom: 20px;"><strong>Thank you for signing up to LinkedIN App.</strong></p><p style="Margin-top: 20px;Margin-bottom: 20px;"><strong>Please click on the following button to activate your token.</strong></p><p style="Margin-top: 20px;Margin-bottom: 20px;"><strong>Sincerely,<br>Team LinkedIN</strong></p>
-</div>
-    
-        <div style="Margin-left: 20px;Margin-right: 20px;">
-  <div class="btn btn--flat btn--large" style="Margin-bottom: 20px;text-align: center;">
-    <![if !mso]><a style="border-radius: 4px;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #fff;background-color: #5c91ad;font-family: 'Open Sans', sans-serif;" href="http://localhost:3000/user/verify/${token}">Click here</a><![endif]>
-  <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.createsend1.com/t/d-l-dlldol-l-r/" style="width:118px" arcsize="9%" fillcolor="#5C91AD" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,11px,0px,11px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Click here</center></v:textbox></v:roundrect><![endif]--></div>
-</div>
-    
-    <div style="font-size: 12px;font-style: normal;font-weight: normal;" align="center">
-      <img class="gnd-corner-image gnd-corner-image-center gnd-corner-image-bottom" style="border: 0;display: block;height: auto;width: 90%;max-width: 720px;" alt="" width="600" src="https://i1.createsend1.com/ei/d/E8/44B/C1E/133021/csfinal/64fdceb12bf24b41b92e654dee7b59cf.jpg">
     </div>
-  
-      </div>
-    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-    </div>
+  <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
   </div>
+</div>
 
-  <div class="layout email-footer" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
-    <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;" lang="x-layout__inner">
-    <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-email-footer"><td style="width: 400px;" valign="top" class="w360"><![endif]-->
-      <div class="column wide" style='text-align: left;font-size: 12px;line-height: 19px;color: #b9b9b9;font-family: "Open Sans",sans-serif;Float: left;max-width: 400px;min-width: 320px; width: 320px;width: calc(8000% - 47600px);'>
-        <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 10px;Margin-bottom: 10px;">
-          <table class="email-footer__links emb-web-links" style="border-collapse: collapse;table-layout: fixed;"><tbody><tr>
+<div class="layout email-footer" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+  <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;" lang="x-layout__inner">
+  <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-email-footer"><td style="width: 400px;" valign="top" class="w360"><![endif]-->
+    <div class="column wide" style='text-align: left;font-size: 12px;line-height: 19px;color: #b9b9b9;font-family: "Open Sans",sans-serif;Float: left;max-width: 400px;min-width: 320px; width: 320px;width: calc(8000% - 47600px);'>
+      </div>
+    </div>
+  <!--[if (mso)|(IE)]></td><td style="width: 200px;" valign="top" class="w160"><![endif]-->
+    <!-- <div class="column narrow" style='text-align: left;font-size: 12px;line-height: 19px;color: #b9b9b9;font-family: "Open Sans",sans-serif;Float: left;max-width: 320px;min-width: 200px; width: 320px;width: calc(72200px - 12000%);'>
+      <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 10px;Margin-bottom: 10px;">
+        <div class="footer__share-button">
+          <!--[if mso]><p style="line-height:0;">&nbsp;</p><![endif]
           
-<td class="emb-web-links" style="padding: 0;width: 26px;"><a style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href="https://www.facebook.com/photobookww"><img style="border: 0;" src="https://i8.createsend1.com/static/eb/customise/13-the-blueprint-3/images/facebook.png" width="26" height="26"></a></td><td class="emb-web-links" style="padding: 0 0 0 3px;width: 26px;"><a style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href="https://www.twitter.com/photobookww"><img style="border: 0;" src="https://i10.createsend1.com/static/eb/customise/13-the-blueprint-3/images/twitter.png" width="26" height="26"></a></td><td class="emb-web-links" style="padding: 0 0 0 3px;width: 26px;"><a 
-style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href="http://instagram.com/photobookww"><img style="border: 0;" src="https://i1.createsend1.com/static/eb/customise/13-the-blueprint-3/images/instagram.png" width="26" height="26"></a></td><td class="emb-web-links" style="padding: 0 0 0 3px;width: 26px;"><a style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href="http://www.photobookworldwide.com"><img style="border: 0;" src="https://i3.createsend1.com/static/eb/customise/13-the-blueprint-3/images/website.png" width="26" height="26"></a></td><td class="emb-web-links" style="padding: 0 0 0 3px;width: 26px;"><a style="text-decoration: underline;transition: opacity 0.1s ease-in;color: 
-#b9b9b9;" href="https://pinterest.com/photobookww"><img style="border: 0;" src="https://i4.createsend1.com/static/eb/customise/13-the-blueprint-3/images/pinterest.png" width="26" height="26"></a></td>
-          </tr></tbody></table>
-          <div style="Margin-top: 20px;">
-            <div>Copyright &#169; 2016 LinkedIN Worldwide. All rights reserved.&nbsp;</div>
-          </div>
-          <div style="Margin-top: 18px;">
-            
-          </div>
-        </div>
-      </div>
-    <!--[if (mso)|(IE)]></td><td style="width: 200px;" valign="top" class="w160"><![endif]-->
-      <!-- <div class="column narrow" style='text-align: left;font-size: 12px;line-height: 19px;color: #b9b9b9;font-family: "Open Sans",sans-serif;Float: left;max-width: 320px;min-width: 200px; width: 320px;width: calc(72200px - 12000%);'>
-        <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 10px;Margin-bottom: 10px;">
-          <div class="footer__share-button">
-            <!--[if mso]><p style="line-height:0;">&nbsp;</p><![endif]
-            
 <p style="Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-height-rule: exactly;"><![if !mso]><a class="fblike" style="background-image: url(https://i8.createsend1.com/static/eb/customise/13-the-blueprint-3/images/fblike.png);text-decoration: none;transition: opacity 0.1s ease-in;color: #ffffff;background-repeat: no-repeat;background-size: 200px 56px;border-radius: 2px;display: inline-block;font-size: 11px;font-weight: bold;line-height: 11px;padding: 8px 11px 7px 28px;text-align: left;background-color: #7b7c7d;" href="http://photobookworldwide.createsend1.com/t/d-fb-dlldol-l-b/" left-align-text="true" rel="cs_facebox">Like</a><![endif]><!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.createsend1.com/t/d-fb-dlldol-l-b/" style="width:62px" arcsize="8%" 
 fill="t" stroke="f"><v:fill type="tile" src="https://i8.createsend1.com/static/eb/customise/13-the-blueprint-3/images/fblike.png" color="#7B7C7D"></v:fill><v:textbox style="mso-fit-shape-to-text:t" inset="27px,7px,0,6px"><p style="font-size:11px;line-height:11px;color:#FFFFFF;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:-1px">Like</p></v:textbox></v:roundrect><![endif]</p>
-            
+          
 <p style="Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-height-rule: exactly;"><![if !mso]><a class="tweet" style="background-image: url(https://i7.createsend1.com/static/eb/customise/13-the-blueprint-3/images/tweet.png);text-decoration: none;transition: opacity 0.1s ease-in;color: #ffffff;background-repeat: no-repeat;background-size: 200px 56px;border-radius: 2px;display: inline-block;font-size: 11px;font-weight: bold;line-height: 11px;padding: 8px 11px 7px 28px;text-align: left;background-color: #7b7c7d;" href="http://photobookworldwide.createsend1.com/t/d-tw-dlldol-l-n/" left-align-text="true">Tweet</a><![endif]><!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.createsend1.com/t/d-tw-dlldol-l-n/" style="width:73px" arcsize="8%" fill="t" 
 stroke="f"><v:fill type="tile" src="https://i7.createsend1.com/static/eb/customise/13-the-blueprint-3/images/tweet.png" color="#7B7C7D"></v:fill><v:textbox style="mso-fit-shape-to-text:t" inset="27px,7px,0,6px"><p style="font-size:11px;line-height:11px;color:#FFFFFF;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:-1px">Tweet</p></v:textbox></v:roundrect><![endif]</p>
-            
+          
 <p style="Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-height-rule: exactly;"><![if !mso]><a class="linkedinshare" style="background-image: url(https://i10.createsend1.com/static/eb/customise/13-the-blueprint-3/images/lishare.png);text-decoration: none;transition: opacity 0.1s ease-in;color: #ffffff;background-repeat: no-repeat;background-size: 200px 56px;border-radius: 2px;display: inline-block;font-size: 11px;font-weight: bold;line-height: 11px;padding: 8px 11px 7px 28px;text-align: left;background-color: #7b7c7d;" href="http://photobookworldwide.createsend1.com/t/d-li-dlldol-l-p/" left-align-text="true">Share</a><![endif]><!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.createsend1.com/t/d-li-dlldol-l-p/" style="width:70px" arcsize="8%" fill="t" 
 stroke="f"><v:fill type="tile" src="https://i10.createsend1.com/static/eb/customise/13-the-blueprint-3/images/lishare.png" color="#7B7C7D"></v:fill><v:textbox style="mso-fit-shape-to-text:t" inset="27px,7px,0,6px"><p style="font-size:11px;line-height:11px;color:#FFFFFF;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:-1px">Share</p></v:textbox></v:roundrect><![endif]</p>
-            
+          
 <p style="Margin-top: 0;Margin-bottom: 5px;line-height: 26px;mso-line-height-rule: exactly;"><![if !mso]><a class="forwardtoafriend" style="background-image: url(https://i9.createsend1.com/static/eb/customise/13-the-blueprint-3/images/forward.png);text-decoration: none;transition: opacity 0.1s ease-in;color: #ffffff;background-repeat: no-repeat;background-size: 200px 56px;border-radius: 2px;display: inline-block;font-size: 11px;font-weight: bold;line-height: 11px;padding: 8px 11px 7px 28px;text-align: left;background-color: #7b7c7d;" href="http://photobookworldwide.forwardtomyfriend.com/d-l-2AD73FFF-dlldol-l-x" left-align-text="true">Forward</a><![endif]><!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.forwardtomyfriend.com/d-l-2AD73FFF-dlldol-l-x" style="width:85px" arcsize="8%" fill="t" stroke="f"><v:fill type="tile" 
 src="https://i9.createsend1.com/static/eb/customise/13-the-blueprint-3/images/forward.png" color="#7B7C7D"></v:fill><v:textbox style="mso-fit-shape-to-text:t" inset="27px,7px,0,6px"><p style="font-size:11px;line-height:11px;color:#FFFFFF;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:-1px">Forward</p></v:textbox></v:roundrect><![endif]</p>
-          </div>
         </div>
-      </div> -->
-    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-    </div>
+      </div>
+    </div> -->
+  <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
   </div>
-  <div class="layout one-col email-footer" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
-    <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;" lang="x-layout__inner">
-    <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-email-footer"><td style="width: 600px;" class="w560"><![endif]-->
-      <!-- <div class="column" style='text-align: left;font-size: 12px;line-height: 19px;color: #b9b9b9;font-family: "Open Sans",sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
-        <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 10px;Margin-bottom: 10px;">
-          <div>
-            <a style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href="http://photobookworldwide.createsend1.com/t/d-u-dlldol-l-m/">Unsubscribe</a>
-          </div>
+</div>
+<div class="layout one-col email-footer" style="Margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 173000px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+  <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;" lang="x-layout__inner">
+  <!--[if (mso)|(IE)]><table align="center" cellpadding="0" cellspacing="0"><tr class="layout-email-footer"><td style="width: 600px;" class="w560"><![endif]-->
+    <!-- <div class="column" style='text-align: left;font-size: 12px;line-height: 19px;color: #b9b9b9;font-family: "Open Sans",sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);'>
+      <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 10px;Margin-bottom: 10px;">
+        <div>
+          <a style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href="http://photobookworldwide.createsend1.com/t/d-u-dlldol-l-m/">Unsubscribe</a>
         </div>
-      </div> -->
-    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-    </div>
+      </div>
+    </div> -->
+  <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
   </div>
-  <div style="line-height:40px;font-size:40px;">&nbsp;</div>
+</div>
+<div style="line-height:40px;font-size:40px;">&nbsp;</div>
 
-</div><img style="overflow: hidden;position: fixed;visibility: hidden !important;display: block !important;height: 1px !important;width: 1px !important;border: 0 !important;margin: 0 !important;padding: 0 !important;" src="https://photobookworldwide.createsend1.com/t/d-o-dlldol-l/o.gif" width="1" height="1" border="0" alt="">
+</div><img style="overflow: hidden;position: fixed;visibility: hidden !important;display: block !important;height: 1px !important;width: 1px !important;border: 0 !important;margin: 0 !important;padding: 0 !important;" src="https://www.nazwa.pl/blog/wp-content/uploads/2019/09/W-social-media-postaw-na-autentyczno%C5%9B%C4%87.png" width="1" height="1" border="0" alt="">
 <!-- <script type="text/javascript" src="https://js.createsend1.com/js/jquery-1.7.2.min.js?h=C99A465920160920"></script> -->
 <div id="fb-root"></div>
 <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>

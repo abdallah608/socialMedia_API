@@ -12,7 +12,7 @@ export const sendForgetEmail = async(options)=>{
       let token = jwt.sign({email:options.email},process.env.verifyKey)
     console.log(token);
       let info = await transporter.sendMail({
-        from: '"Abdallah 👻" <abdallahhassanshaaban@gmail.com>', 
+        from: '"SocialMedia team👻" <abdallahhassanshaaban@gmail.com>', 
         to: options.email, 
         subject: "Rest forget password", 
         text: "Rest forget password", 
