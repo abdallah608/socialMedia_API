@@ -1,4 +1,6 @@
+
 # socialMedia_API
+https://socialmediaapi-oj5g.onrender.com
 handle user routers :
 /user/signup  -- /user /verify/:token  -- /user /signIn  -- /user /update  -- /user /delete
 /user /softDeleted --  /user /changePassword -- /user /forgetPassword -- /user /resetPassword/:token
